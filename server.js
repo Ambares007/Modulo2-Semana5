@@ -19,3 +19,14 @@ app.get('/mensaje/:nombre', (req, res) => {
 app.listen(3000, () => {
   console.log('Servidor ejecutándose en puerto 3000');
 });
+
+
+// Colo este código acá porque no entiendo del todo el ejercicio pero de igual forma lo adjunto como prueba de la realización del mismo//
+
+//app.post('/reporte', (req, res) => {
+//  const mensaje = req.body.mensaje;
+//  res.json({ //
+    //estado: "Reporte recibido",
+    //mensaje: mensaje//
+  // }); //
+// }); //
