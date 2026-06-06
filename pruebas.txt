@@ -1,2 +1,15 @@
 Buen día.
-ajunto lo que vi durante las práctica de los ejercicios encomendados. 
+1) Ajunto lo que vi durante las práctica de los ejercicios encomendados. 
+con el comando "http://localhost:3000", se procesó durante unos segundos y luego lo leyó, se mostró una ruta en colores 
+y al final  dio un mensaje de bienvenida a la "ruta matriz o ruta principal" casi casi como un -Branch-
+
+
+2) Con la línea de comando "http://localhost:3000/saludo" pudo obervar similar al anterior, lo procesó un par de segundos, lo leyó 
+y mostró un mensaje en colores como "Saludo", casi que de bienvenida, como un mensaje de ruta específico que dió ese saludo. 
+Se sintió como un Hola Mundo.
+
+3) Con la línea de comando "http://localhost:3000/mensaje/juan", sucedió igual que los anteriores ejercicios. 
+Leyó, procesó y arrojó el resultado en colores, en este caso fue "Juan"; porque al dar la ruta, el mensaje y específicar qué mensaje 
+iba a arrojar era "Juan", eso fue lo que mandó. 
+
+Es curioso interactuar con una máquina y contigo mismo en el mismo tiempo. 
